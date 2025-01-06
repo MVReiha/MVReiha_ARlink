@@ -146,6 +146,9 @@ footer {
 Step selanjutnya kalian bisa mengedit code yang saya lampirkan sesuai minat dan keinginan, jika dirasa sudah cukup kalian bisa save sesuai dengan format penamaan file.
 Buka akun github dan buatlah repository baru sesuai nama projek yang kalian inginkan, kemudian upload file yang sudah disimpah sebelumnya ke-dalam repository, save and commit.
 
+![Screenshot 2025-01-06 111118](https://github.com/user-attachments/assets/6bdf1351-8a5c-4e95-8433-e94f7c9ac2ec)
+
+
 ## 🟢Step 2 (Deployment di Arlink)
 
 1. Di step 3 kalian bisa langsung membuka : https://arlink.arweave.net
@@ -153,13 +156,19 @@ Buka akun github dan buatlah repository baru sesuai nama projek yang kalian ingi
 3. klik deploy your first app kemudian pilih github dan konek github
 4. Pilih Repository yang sudah dibuat
 5. Jika sudah akan menuju ke halaman Create new deployment, selanjutnya seusaikan dan ganti seperti dibawa
+6. 
+![Screenshot 2025-01-06 110655](https://github.com/user-attachments/assets/aa340a2e-95f7-4733-bfc9-ccd8b73f47dd)
+
    - Install Command = npm --version
    - Build Command   = npm -- version
    - Sub Dir = ./
    - Out Dir = .
-6. Klik next kemudian aktifkan ArNS domain, kemudian masukan process id dari domain yang sudah kalian buat
-7. Klik Deploy dan tunggu proses berjalan hingga selesai, tanda selesai akan memunculkan keterangan build completed
-8. Done
+7. Klik next kemudian aktifkan ArNS domain, kemudian masukan process id dari domain yang sudah kalian buat
+8. Klik Deploy dan tunggu proses berjalan hingga selesai, tanda selesai akan memunculkan keterangan build completed
+
+   ![Screenshot 2025-01-06 110913](https://github.com/user-attachments/assets/1223fca8-f9a6-475b-87a2-34869a264308)
+
+9. Done
 
 ## Join 
 https://arlink.gitbook.io/arlink-docs
